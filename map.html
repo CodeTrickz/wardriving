@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Leaflet Kaart met Klikbare Marker</title>
+    <!-- Voeg de Leaflet CSS toe -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="map.html">Kaart</a></li>
+        <li><a href="metingen.html">Metingen</a></li>
+      </ul>
+    </nav>
+    <div>
+      <input type="text" id="searchInput" placeholder="Zoek naar locaties..." />
+    </div>
+    <div id="map"></div>
+
+    <!-- Formulier voor het toevoegen van nieuwe locaties -->
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="map.js"></script>
+  </body>
+</html>

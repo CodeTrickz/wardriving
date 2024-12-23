@@ -1,0 +1,297 @@
+{
+  "Hoevenen": [
+    {
+      "coord": {
+        "latitude": 51.31292546476911,
+        "longitude": 4.395210236419795
+      },
+      "adress": "Krekelberg 30, Hoevenen, 2940",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46955510/conformiteitsattest",
+      "antenna": {
+        "Nr": 1,
+        "Zendantenne_type": "CI-30328-A Antenna 1 - K_739_686_GSM800_S1_TiltMin",
+        "Azimut": 100,
+        "Hoogte_m": 2.0,
+        "Breedte_m": 0.26,
+        "Frequentie_MHz": 947.05,
+        "Hoogte_midden_m": 31.3,
+        "Vermogen_W": 57.8,
+        "Tilt_°": -3.0,
+        "Elektrische_Tilt_°": -3.0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 89.0,
+        "Verticale_openingshoek_°": 9.0,
+        "Winst_dBi": 15.0
+      }
+    },
+    {
+      "coord": {
+        "latitude": 51.31292546476911,
+        "longitude": 4.395210236419795
+      },
+      "adress": "Krekelberg 30, Hoevenen, 2940",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46955510/conformiteitsattest",
+      "antenna": {
+        "Nr": 2,
+        "Zendantenne_type": "CI-30328-A Antenna 2 - K_739_686_GSM900_S2_TiltMin",
+        "Azimut": 100,
+        "Hoogte_m": 2.6,
+        "Breedte_m": 0.26,
+        "Frequentie_MHz": 947.05,
+        "Hoogte_midden_m": 31.3,
+        "Vermogen_W": 57.8,
+        "Tilt_°": -3.0,
+        "Elektrische_Tilt_°": -3.0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 89.0,
+        "Verticale_openingshoek_°": 9.0,
+        "Winst_dBi": 15.0
+      }
+    },
+    {
+      "coord": {
+        "latitude": 51.31292546476911,
+        "longitude": 4.395210236419795
+      },
+      "adress": "Krekelberg 30, Hoevenen, 2940",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46955510/conformiteitsattest",
+      "antenna": {
+        "Nr": 3,
+        "Zendantenne_type": "CI-30328-A Antenna 3 - K_739_686_GSM900_S2_TiltMin",
+        "Azimut": 120,
+        "Hoogte_m": 1.7,
+        "Breedte_m": 0.16,
+        "Frequentie_MHz": 2162.3,
+        "Hoogte_midden_m": 31.9,
+        "Vermogen_W": 56.2,
+        "Tilt_°": -2.0,
+        "Elektrische_Tilt_°": -2.0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 80.0,
+        "Verticale_openingshoek_°": 8.0,
+        "Winst_dBi": 18.5
+      }
+    },
+    {
+      "coord": {
+        "latitude": 51.31292546476911,
+        "longitude": 4.395210236419795
+      },
+      "adress": "Krekelberg 30, Hoevenen, 2940",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46955510/conformiteitsattest",
+      "antenna": {
+        "Nr": 4,
+        "Zendantenne_type": "CI-30328-A Antenna 4 - K_739_686_UMTS_S2_TiltMin",
+        "Azimut": 120,
+        "Hoogte_m": 1.7,
+        "Breedte_m": 0.16,
+        "Frequentie_MHz": 2162.3,
+        "Hoogte_midden_m": 31.9,
+        "Vermogen_W": 56.2,
+        "Tilt_°": -2.0,
+        "Elektrische_Tilt_°": -2.0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 80.0,
+        "Verticale_openingshoek_°": 8.0,
+        "Winst_dBi": 18.5
+      }
+    },
+    {
+      "coord": {
+        "latitude": 51.31292546476911,
+        "longitude": 4.395210236419795
+      },
+      "adress": "Krekelberg 30, Hoevenen, 2940",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46955510/conformiteitsattest",
+      "antenna": {
+        "Nr": 5,
+        "Zendantenne_type": "CI-30328-A Antenna 5 - K_739_686_LTE800_S1_TiltMin",
+        "Azimut": 240,
+        "Hoogte_m": 2.6,
+        "Breedte_m": 0.26,
+        "Frequentie_MHz": 947.05,
+        "Hoogte_midden_m": 31.3,
+        "Vermogen_W": 57.8,
+        "Tilt_°": -2.0,
+        "Elektrische_Tilt_°": -2.0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 70.0,
+        "Verticale_openingshoek_°": 8.0,
+        "Winst_dBi": 17.0
+      }
+    },
+    {
+      "coord": {
+        "latitude": 51.31292546476911,
+        "longitude": 4.395210236419795
+      },
+      "adress": "Krekelberg 30, Hoevenen, 2940",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46955510/conformiteitsattest",
+      "antenna": {
+        "Nr": 6,
+        "Zendantenne_type": "CI-30328-A Antenna 6 - K_739_686_LTE800_S1_TiltMin",
+        "Azimut": 240,
+        "Hoogte_m": 2.6,
+        "Breedte_m": 0.26,
+        "Frequentie_MHz": 947.05,
+        "Hoogte_midden_m": 31.3,
+        "Vermogen_W": 57.8,
+        "Tilt_°": -2.0,
+        "Elektrische_Tilt_°": -2.0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 70.0,
+        "Verticale_openingshoek_°": 8.0,
+        "Winst_dBi": 17.0
+      }
+    }
+  ],
+  "Antwerpen": [
+    {
+      "coord": {
+        "latitude": 51.23206410092804 ,
+        "longitude": 4.411305492842995
+      },
+      "adress": "Antwerpen, Napelstraat 51",
+      "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46935591/conformiteitsattest",
+      "antenna": {
+        "Nr": 1,
+        "Zendantenne_type": "S-900-0-10",
+        "Azimut": 0,
+        "Hoogte_m": 1.9,
+        "Breedte_m": 0.26,
+        "Frequentie_MHz": 900.00,
+        "Hoogte_midden_m": 36.37,
+        "Vermogen_W": 25.1,
+        "Tilt_°": 0,
+        "Elektrische_Tilt_°": 0,
+        "Mechanische_Tilt_°": 0.0,
+        "Horizontale_openingshoek_°": 65.0,
+        "Verticale_openingshoek_°": 9.7,
+        "Winst_dBi": 16.8
+      }
+    },
+    {
+      "coord": {
+        "latitude": 51.23206410092804 ,
+        "longitude": 4.411305492842995
+      },
+        "adress": "Antwerpen, Napelstraat 51",
+        "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/46935591/conformiteitsattest",
+        "antenna": {
+          "Nr": 2,
+          "Zendantenne_type": "S-UMTS-0-10",
+          "Azimut": 0,
+          "Hoogte_m": 1.3,
+          "Breedte_m": 0.15,
+          "Frequentie_MHz": 2100.00,
+          "Hoogte_midden_m": 37.00,
+          "Vermogen_W": 10,
+          "Tilt_°": 0,
+          "Elektrische_Tilt_°": 0,
+          "Mechanische_Tilt_°": 0.0,
+          "Horizontale_openingshoek_°": 63.0,
+          "Verticale_openingshoek_°": 6.5,
+          "Winst_dBi": 18.0
+        }
+      }
+
+  ],
+  "Antwerpen2": [
+    {
+        "coord": {
+          "latitude": 51.22797459116298,
+          "longitude": 4.439140795923331
+        },
+        "adress": "Antwerpen, slachthuislaan 80",
+        "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/42069367/conformiteitsattest",
+        "antenna": {
+          "Nr": 1,
+          "Zendantenne_type": "0700_TROZ-12",
+          "Azimut": 120,
+          "Hoogte_m": 2.8,
+          "Breedte_m": 0.47,
+          "Frequentie_MHz": 763.00,
+          "Hoogte_midden_m": 19.48,
+          "Vermogen_W": 46.00,
+          "Tilt_°": -2.0,
+          "Elektrische_Tilt_°": -2.0,
+          "Mechanische_Tilt_°": 0.0,
+          "Horizontale_openingshoek_°": 71.0,
+          "Verticale_openingshoek_°": 17.0,
+          "Winst_dBi": 15.8
+        }
+      },
+      {
+        "coord": {
+          "latitude": 51.22797459116298,
+          "longitude": 4.439140795923331
+        },
+        "adress": "Antwerpen, slachthuislaan 80",
+        "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/42069367/conformiteitsattest",
+        "antenna": {
+          "Nr": 2,
+          "Zendantenne_type": "0700_TROZ-12",
+          "Azimut": 0,
+          "Hoogte_m": 2.8,
+          "Breedte_m": 0.47,
+          "Frequentie_MHz": 763.00,
+          "Hoogte_midden_m": 19.48,
+          "Vermogen_W": 46.00,
+          "Tilt_°": -2.0,
+          "Elektrische_Tilt_°": -2.0,
+          "Mechanische_Tilt_°": 0.0,
+          "Horizontale_openingshoek_°": 71.0,
+          "Verticale_openingshoek_°": 17.0,
+          "Winst_dBi": 15.8
+        }
+      },
+      {
+        "coord": {
+          "latitude": 51.22797459116298,
+          "longitude": 4.439140795923331
+        },
+        "adress": "Antwerpen, slachthuislaan 80",
+        "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/42069367/conformiteitsattest",
+        "antenna": {
+          "Nr": 7,
+          "Zendantenne_type": "0700_TROZ-12",
+          "Azimut": 240,
+          "Hoogte_m": 2.8,
+          "Breedte_m": 0.47,
+          "Frequentie_MHz": 763.00,
+          "Hoogte_midden_m": 19.48,
+          "Vermogen_W": 46.00,
+          "Tilt_°": -2.0,
+          "Elektrische_Tilt_°": -2.0,
+          "Mechanische_Tilt_°": 0.0,
+          "Horizontale_openingshoek_°": 71.0,
+          "Verticale_openingshoek_°": 17.0,
+          "Winst_dBi": 15.8
+        }
+      },
+      {
+        "coord": {
+          "latitude": 51.22797459116298,
+          "longitude": 4.439140795923331
+        },
+        "adress": "Antwerpen, slachthuislaan 80",
+        "datasheet": "https://zendantennes.omgeving.vlaanderen.be/publiek/dossier/42069367/conformiteitsattest",
+        "antenna": {
+          "Nr": 10,
+          "Zendantenne_type": "0700_TROZ-12",
+          "Azimut": 0,
+          "Hoogte_m": 2.8,
+          "Breedte_m": 0.47,
+          "Frequentie_MHz": 1844.90,
+          "Hoogte_midden_m": 19.48,
+          "Vermogen_W": 50.80,
+          "Tilt_°": -2.0,
+          "Elektrische_Tilt_°": -2.0,
+          "Mechanische_Tilt_°": 0.0,
+          "Horizontale_openingshoek_°": 58.0,
+          "Verticale_openingshoek_°": 16.0,
+          "Winst_dBi": 16.8
+        }
+      }
+  ]
+}

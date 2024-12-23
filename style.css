@@ -1,0 +1,106 @@
+/* Algemene stijlen */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Stijl voor de kaart */
+#map {
+    height: 80vh; /* Hoogte van de kaart */
+    border: 2px solid #ccc; /* Grijze rand om de kaart */
+    border-radius: 8px; /* Ronde hoeken */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Schaduw voor diepte */
+}
+
+/* Stijl voor het zoekinvoerveld */
+#searchInput {
+    width: 100%; /* Volledige breedte */
+    padding: 10px; /* Ruimte binnenin het invoerveld */
+    margin: 20px 0; /* Ruimte boven en onder het invoerveld */
+    border: 1px solid #ccc; /* Grijze rand */
+    border-radius: 4px; /* Ronde hoeken */
+    font-size: 16px; /* Grotere tekst */
+}
+
+/* Stijl voor het formulier voor het toevoegen van nieuwe locaties */
+#add-location-form {
+    background-color: #fff; /* Witte achtergrond */
+    padding: 20px; /* Ruimte binnenin het formulier */
+    border-radius: 8px; /* Ronde hoeken */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Schaduw voor diepte */
+    margin: 20px 0; /* Ruimte boven en onder het formulier */
+}
+
+/* Stijl voor de invoervelden in het formulier */
+#add-location-form input {
+    width: calc(100% - 20px); /* Volledige breedte minus padding */
+    padding: 10px; /* Ruimte binnenin de invoervelden */
+    margin: 10px 0; /* Ruimte boven en onder de invoervelden */
+    border: 1px solid #ccc; /* Grijze rand */
+    border-radius: 4px; /* Ronde hoeken */
+    font-size: 16px; /* Grotere tekst */
+}
+
+/* Stijl voor de knop in het formulier */
+#add-location-form button {
+    background-color: #28a745; /* Groene achtergrond */
+    color: white; /* Witte tekst */
+    padding: 10px 15px; /* Ruimte binnenin de knop */
+    border: none; /* Geen rand */
+    border-radius: 4px; /* Ronde hoeken */
+    cursor: pointer; /* Handcursor bij hover */
+    font-size: 16px; /* Grotere tekst */
+}
+
+/* Hover-effect voor de knop */
+#add-location-form button:hover {
+    background-color: #218838; /* Donkerder groen bij hover */
+}
+
+/* Stijl voor de dropdown in de popup */
+select {
+    width: 100%; /* Volledige breedte */
+    padding: 10px; /* Ruimte binnenin de dropdown */
+    margin: 10px 0; /* Ruimte boven en onder de dropdown */
+    border: 1px solid #ccc; /* Grijze rand */
+    border-radius: 4px; /* Ronde hoeken */
+    font-size: 16px; /* Grotere tekst */
+}
+
+@media (max-width: 600px) {
+    #map {
+        height: 60vh; /* Verlaag de hoogte van de kaart op kleinere schermen */
+    }
+
+    #searchInput {
+        font-size: 14px; /* Kleinere tekst voor mobiele apparaten */
+    }
+
+    #add-location-form {
+        padding: 15px; /* Minder padding op mobiele apparaten */
+    }
+}
+
+nav {
+    background-color: #333; /* Donkere achtergrond */
+    color: white; /* Witte tekst */
+    padding: 10px; /* Ruimte binnenin de navigatie */
+  }
+  nav ul {
+    list-style-type: none; /* Geen opsommingstekens */
+    margin: 0; /* Geen marge */
+    padding: 0; /* Geen padding */
+    display: flex; /* Flexbox voor horizontale uitlijning */
+  }
+  nav ul li {
+    margin-right: 20px; /* Ruimte tussen de items */
+  }
+  nav ul li a {
+    color: white; /* Witte tekst voor links */
+    text-decoration: none; /* Geen onderstreping */
+  }
+  nav ul li a:hover {
+    text-decoration: underline; /* Onderstreping bij hover */
+  }

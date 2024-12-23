@@ -1,0 +1,58 @@
+/* Algemene opmaak */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Stijl voor de titels */
+h1 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin: 20px 0;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Stijl voor de paragrafen */
+p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Stijl voor de afbeeldingen */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Extra ruimte tussen secties */
+br {
+    margin-bottom: 20px;
+}
+
+/* Responsive ontwerp */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+
+    img {
+        max-width: 100%;
+    }
+}
